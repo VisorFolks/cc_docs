@@ -1,2 +1,3 @@
-# cc_docs
-Cyancore framework documentation
+# Cyancore Framework Documentation
+
+Please use [Obsidian](https://obsidian.md/)

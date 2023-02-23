@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "5e8d46eb3461025e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c54bc7887b3fa166",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Framework/Chapter 2 - Pre-requisites and Links.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c113fce4095becd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5769171972929608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379cec671ffac6bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "481ba12208eeac5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9e3f89721cbc529",
+    "type": "split",
+    "children": [
+      {
+        "id": "c923dd1cc7006225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "756255ddb5e4a55e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Framework/Chapter 2 - Pre-requisites and Links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8f2f8975caf6b0ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Framework/Chapter 2 - Pre-requisites and Links.md"
+              }
+            }
+          },
+          {
+            "id": "664133fe56d2376a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c54bc7887b3fa166",
+  "lastOpenFiles": [
+    "Framework/Chapter 2 - Pre-requisites and Links.md",
+    "Framework/Chapter 3 - Abbreviations and terms in CC.md",
+    "Framework/Chapter 1 - Hello World!.md",
+    "Untitled.md",
+    "temp.md"
+  ]
+}
