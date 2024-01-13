@@ -1,0 +1,43 @@
+{
+  "inlineCSS": false,
+  "inlineJS": false,
+  "inlineImages": false,
+  "includePluginCSS": "",
+  "includeSvelteCSS": false,
+  "makeNamesWebStyle": true,
+  "allowFoldingHeadings": true,
+  "sidebarsAlwaysCollapsible": false,
+  "addFilenameTitle": true,
+  "minifyHTML": false,
+  "customLineWidth": "",
+  "contentWidth": "",
+  "sidebarWidth": "",
+  "startOutlineCollapsed": false,
+  "logLevel": "warning",
+  "incrementalExport": false,
+  "deleteOldExportedFiles": false,
+  "addDarkModeToggle": true,
+  "includeOutline": true,
+  "includeGraphView": true,
+  "includeFileTree": true,
+  "exportPreset": "documents",
+  "openAfterExport": true,
+  "graphAttractionForce": 1,
+  "graphLinkLength": 10,
+  "graphRepulsionForce": 150,
+  "graphCentralForce": 3,
+  "graphEdgePruning": 100,
+  "graphMinNodeSize": 3,
+  "graphMaxNodeSize": 7,
+  "exportPath": "C:\\Users\\akash\\Desktop\\temp",
+  "filesToExport": [
+    [
+      "Framework/Chapter 1 - Hello World!.md",
+      "Framework/Chapter 2 - Pre-requisites and Links.md",
+      "Framework/Chapter 3 - Abbreviations and terms in CC.md",
+      "Framework/Chapter 4 - Understanding CC build engine.md",
+      "Framework/Chapter 5 - Understanding CC src folder.md",
+      "Framework/Chapter 6 - Understanding CC project folder.md"
+    ]
+  ]
+}
